@@ -1,2 +1,2 @@
 # Python Work
-My Python practice.
+My Python practice exercises.
